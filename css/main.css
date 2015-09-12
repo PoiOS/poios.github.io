@@ -1,0 +1,12 @@
+body {
+  background: #F4F4E6; 
+}
+
+.page-wrapper {
+  margin: 2em auto;
+  max-width: 700px;
+} 
+.logo {
+  display: block;
+  margin: 0 auto;
+}
