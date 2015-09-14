@@ -15,3 +15,14 @@ h1 {
   text-align: center;
   margin-top: 2em;
 }
+
+.main-navbar {
+  padding: 30px 50px 26px;
+  background: #eee;
+}
+.main-navbar a {
+  color: #000;
+}
+.main-navbar li.active a {
+  color: #999;
+}
