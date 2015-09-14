@@ -1,0 +1,10 @@
+name: Poi OS - Open-source LED Poi Operating System
+description: Poi OS is an open-source LED Poi Operating System
+
+author: Darren Mothersele
+author_email: darren@darrenmothersele.com
+
+url: http://poios.org/
+
+markdown: rdiscount
+exclude: [README.md, Gemfile, Gemfile.lock, CNAME, .gitignore]
