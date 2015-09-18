@@ -13,7 +13,7 @@
 <meta property="og:title" content="Poi OS - Open-source LED Poi Operating System" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://poios.org/" />
-<meta property="og:image" content="http://poios.org/img/poi-1.jpg" />
+<meta property="og:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.data.meta.og_image }}{% endif %}" />
 
 </head>
 <body>
