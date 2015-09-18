@@ -56,6 +56,9 @@ This works really well...
   <img src="{{site.baseurl}}/img/2nd/04.jpg" alt="LED Pixel Poi Prototype 2">
 </figure>
 
+In this image you can also see the two strips of LEDs mounted on either side
+of a strip of foam board. 
+
 <figure>
   <img src="{{site.baseurl}}/img/2nd/03.jpg" alt="LED Pixel Poi Prototype 2">
 </figure>
