@@ -2,7 +2,7 @@
 layout: default
 title: LED Pixel Poi POV demo
 category: code
-og_image: http://poios.org/img/2nd/05.jpg
+og_image: http://poios.org/img/2nd/demo5.jpg
 ---
 
 # LED Pixel Poi - First POV experiments
